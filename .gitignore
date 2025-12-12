@@ -1,3 +1,4 @@
+# Ignore virtual environment folder
 venv/
-Yelp-JSON.zip
-
+# Ignore dataset files
+Datasets/*
